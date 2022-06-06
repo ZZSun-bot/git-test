@@ -5,5 +5,6 @@ public class Main {
             System.out.println("hello git2");
             System.out.println("Master fix");
             System.out.println("hotfix");
+            System.out.println("push test");
     }
 }
